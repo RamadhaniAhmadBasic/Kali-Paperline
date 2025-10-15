@@ -10,7 +10,7 @@ import os
 
 # Main Program
 def main():
-	pass
+	print("Belum ada isinya")
 
 if __name__ == '__main__':
 	main()
