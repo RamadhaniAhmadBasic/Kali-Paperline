@@ -17,7 +17,8 @@ Penggunaan
 
 Struktur
 ----------------------------------------------------------------
-
+Rencana Struktur Kali Paperline
+```txt
 [kali-paperline]/
 |
 +-[lib]/
@@ -67,6 +68,7 @@ Struktur
 +-[README.md]
 |
 +-[requirements.txt]
+```
 
 Author
 ----------------------------------------------------------------
