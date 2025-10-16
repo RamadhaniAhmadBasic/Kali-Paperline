@@ -35,31 +35,31 @@ Rencana Struktur Kali Paperline
 | | |
 | | +-[document]/
 | | | |
-| | | +-[docx_to_pdf.py]
+| | | +-[lib_docx_to_pdf.py]
 | | | |
-| | | +-[png_to_pdf.py]
+| | | +-[lib_png_to_pdf.py]
 | | | |
-| | | +-[svg_to_png.py]
+| | | +-[lib_svg_to_png.py]
 | | |
 | | +-[photo]/
 | | | |
-| | | +-[avif_to_png.py]
+| | | +-[lib_avif_to_png.py]
 | | | |
-| | | +-[jpg_to_png.py]
+| | | +-[lib_jpg_to_png.py]
 | | | |
-| | | +-[svg_to_png.py]
+| | | +-[lib_svg_to_png.py]
 | | | |
-| | | +-[webp_to_png.py]
+| | | +-[lib_webp_to_png.py]
 | | |  
 | | +-[video]/
 | |   |
-| |   +-[ts_to_mp4.py]
+| |   +-[lib_ts_to_mp4.py]
 | |   |
-| |   +-[mov_to_mp4.py]
+| |   +-[lib_mov_to_mp4.py]
 | |    
 | +-[sort]/
 | | |
-| | +-[txt_sort.py]
+| | +-[lib_txt_sort.py]
 | |
 | +-[example]/
 |    
